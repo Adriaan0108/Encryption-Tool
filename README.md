@@ -2,6 +2,9 @@
 ## About This Project:
 An encryption tool that encrypts and decrypts files with a password entered by the user.
 
+## Project Documentation:
+https://github.com/Adriaan0108/Encryption-Tool/blob/main/Group%205_Encryption%20Project.pdf
+
 ## Languages & Tools:
 - C#
 
